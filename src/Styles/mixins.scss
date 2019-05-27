@@ -78,3 +78,16 @@
     max-width: 1320px;
   }
 }
+
+@mixin paragraph {
+  line-height: 1.4;
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 18px;
+  color: $textColorDark;
+}
+
+@mixin break {
+  border: 1px solid #232323;
+  margin-top: 4px;
+  margin-bottom: 0;
+}
