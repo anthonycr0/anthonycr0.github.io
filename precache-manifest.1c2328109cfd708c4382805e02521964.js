@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "bac7a81b82c0b6f3f70d380df7677f30",
-    "url": "/static/media/play-store-badge.bac7a81b.svg"
+    "revision": "4232e254ba842104a2b04be88d03ba04",
+    "url": "/static/media/streamee-header.4232e254.png"
   },
   {
-    "revision": "e55122a755aa6dc99c0f",
-    "url": "/static/css/main.100f017b.chunk.css"
+    "revision": "3e20eb8792bf141e8125",
+    "url": "/static/css/main.215e5498.chunk.css"
   },
   {
-    "revision": "d9826d73228d30679f26",
-    "url": "/static/js/1.d9826d73.chunk.js"
+    "revision": "c054f2062d2c6db14c27",
+    "url": "/static/js/1.c054f206.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/static/media/app-store-badge.2928664f.svg"
   },
   {
-    "revision": "e55122a755aa6dc99c0f",
-    "url": "/static/js/main.e55122a7.chunk.js"
+    "revision": "bac7a81b82c0b6f3f70d380df7677f30",
+    "url": "/static/media/play-store-badge.bac7a81b.svg"
   },
   {
     "revision": "3914a04301fd7d1441dae4bf05e6ec9c",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/static/media/finder-dark.3dcfd9f9.png"
   },
   {
-    "revision": "4232e254ba842104a2b04be88d03ba04",
-    "url": "/static/media/streamee-header.4232e254.png"
+    "revision": "3e20eb8792bf141e8125",
+    "url": "/static/js/main.3e20eb87.chunk.js"
   },
   {
     "revision": "83ab4944eee9c61f97b03ada3032a852",
@@ -80,7 +80,35 @@ self.__precacheManifest = [
     "url": "/static/media/website-designs.86088720.png"
   },
   {
-    "revision": "21b25655732940fe5a6454ce467697bb",
+    "revision": "9ad0bc4a0f5fbae379851b270fd9c2e7",
+    "url": "/static/media/unihack-header.9ad0bc4a.png"
+  },
+  {
+    "revision": "00cdc4947c36018ccb881c7d8017e410",
+    "url": "/static/media/design-sketch.00cdc494.png"
+  },
+  {
+    "revision": "093c486042969ac79e5711784cc19e09",
+    "url": "/static/media/design-components.093c4860.png"
+  },
+  {
+    "revision": "e1d138041021018662453d5c10f2f0e9",
+    "url": "/static/media/design-margins.e1d13804.png"
+  },
+  {
+    "revision": "5ab5b37fff15ede6cc079dad6c91c501",
+    "url": "/static/media/design-history.5ab5b37f.png"
+  },
+  {
+    "revision": "726641b004ef2f4de24c5f323174d993",
+    "url": "/static/media/code-config.726641b0.png"
+  },
+  {
+    "revision": "721d0c12be9c8bb2ee74dcced4bab7b7",
+    "url": "/static/media/site-schedule.721d0c12.png"
+  },
+  {
+    "revision": "4510c1462b0649070df2d5a4d7c67b7e",
     "url": "/index.html"
   }
 ];
